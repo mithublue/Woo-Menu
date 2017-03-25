@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name: Woo Menu
- * Plugin URI:
+ * Plugin URI: http://cybercraftit.com/woo-menu/
  * Description: Add custom navigation/menu bar to your woocommerce pages
  * Author: Mithu A Quayium
  * Author URI: http://cybercraftit.com/
